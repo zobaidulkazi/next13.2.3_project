@@ -1,0 +1,11 @@
+.mine {
+    background-color: aqua;
+    min-width: 10rem;
+}
+
+.btn{
+    background-color: rgb(67, 216, 169);
+    width: 3rem;
+    height: 2rem;
+    
+}
